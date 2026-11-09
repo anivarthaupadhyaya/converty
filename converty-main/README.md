@@ -50,7 +50,7 @@ The modular architecture makes it easy to extend the system with additional file
 - REST APIs
 - Swagger / OpenAPI
 - Helmet
-- Multer
+- Multer  
 
 ### DevOps
 
